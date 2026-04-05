@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/nazimhere/DSA-A-Z/tree/main/0066-plus-one/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/nazimhere/DSA-A-Z/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nazimhere/DSA-A-Z/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 | Problem Name | Difficulty |
