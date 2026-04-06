@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazimhere/DSA-A-Z/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/nazimhere/DSA-A-Z/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nazimhere/DSA-A-Z/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/nazimhere/DSA-A-Z/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nazimhere/DSA-A-Z/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/nazimhere/DSA-A-Z/tree/master/1389-create-target-array-in-the-given-order) |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/nazimhere/DSA-A-Z/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
