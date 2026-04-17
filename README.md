@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/nazimhere/DSA-A-Z/tree/main/0066-plus-one/) | Easy |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
+| [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/nazimhere/DSA-A-Z/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazimhere/DSA-A-Z/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nazimhere/DSA-A-Z/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
+| [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/nazimhere/DSA-A-Z/tree/master/1389-create-target-array-in-the-given-order) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
+| [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/nazimhere/DSA-A-Z/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
