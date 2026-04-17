@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/nazimhere/DSA-A-Z/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/nazimhere/DSA-A-Z/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazimhere/DSA-A-Z/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/nazimhere/DSA-A-Z/tree/main/1572-matrix-diagonal-sum/) | Easy |
