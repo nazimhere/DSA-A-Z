@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/nazimhere/DSA-A-Z/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/nazimhere/DSA-A-Z/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/nazimhere/DSA-A-Z/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/nazimhere/DSA-A-Z/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nazimhere/DSA-A-Z/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 | Problem Name | Difficulty |
