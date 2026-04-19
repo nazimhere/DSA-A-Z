@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/nazimhere/DSA-A-Z/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/nazimhere/DSA-A-Z/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nazimhere/DSA-A-Z/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/nazimhere/DSA-A-Z/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nazimhere/DSA-A-Z/tree/main/0055-jump-game/) | Medium |
+| [0198-house-robber](https://github.com/nazimhere/DSA-A-Z/tree/main/0198-house-robber/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
