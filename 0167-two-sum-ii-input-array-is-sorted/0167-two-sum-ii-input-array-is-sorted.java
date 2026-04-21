@@ -14,6 +14,6 @@ class Solution {
                 right--;
             }
         }
-        return new int[]{};
+        return new int[]{left + 1, right + 1};
     }
 }
