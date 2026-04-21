@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nazimhere/DSA-A-Z/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/nazimhere/DSA-A-Z/tree/main/0075-sort-colors/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/nazimhere/DSA-A-Z/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nazimhere/DSA-A-Z/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/nazimhere/DSA-A-Z/tree/main/0069-sqrtx/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/nazimhere/DSA-A-Z/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/nazimhere/DSA-A-Z/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nazimhere/DSA-A-Z/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/nazimhere/DSA-A-Z/tree/main/0075-sort-colors/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
