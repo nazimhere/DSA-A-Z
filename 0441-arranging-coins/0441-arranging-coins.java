@@ -1,12 +1,12 @@
 class Solution {
     public int arrangeCoins(int n) {
-        int cnt=0;
-        int temp=1;
-        while(n-temp>=0) {
-            n -= temp;
-            cnt++;
-            temp++;
+        int a=0;
+        for( int i=0;i<n;i++){
+            a+=i;
+        
+        if(a>n){
+            return i-1;
         }
-        return cnt;
+        } return a;
     }
 }
