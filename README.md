@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/nazimhere/DSA-A-Z/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/nazimhere/DSA-A-Z/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/nazimhere/DSA-A-Z/tree/main/0441-arranging-coins/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nazimhere/DSA-A-Z/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nazimhere/DSA-A-Z/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nazimhere/DSA-A-Z/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
+| [0441-arranging-coins](https://github.com/nazimhere/DSA-A-Z/tree/main/0441-arranging-coins/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/nazimhere/DSA-A-Z/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazimhere/DSA-A-Z/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nazimhere/DSA-A-Z/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
