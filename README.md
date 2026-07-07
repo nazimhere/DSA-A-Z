@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nazimhere/DSA-A-Z/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/nazimhere/DSA-A-Z/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/nazimhere/DSA-A-Z/tree/main/0198-house-robber/) | Medium |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/nazimhere/DSA-A-Z/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0888-fair-candy-swap](https://github.com/nazimhere/DSA-A-Z/tree/main/0888-fair-candy-swap/) | Easy |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/nazimhere/DSA-A-Z/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
