@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/nazimhere/DSA-A-Z/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazimhere/DSA-A-Z/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nazimhere/DSA-A-Z/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/nazimhere/DSA-A-Z/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazimhere/DSA-A-Z/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/nazimhere/DSA-A-Z/tree/master/1389-create-target-array-in-the-given-order) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0888-fair-candy-swap](https://github.com/nazimhere/DSA-A-Z/tree/main/0888-fair-candy-swap/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/nazimhere/DSA-A-Z/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazimhere/DSA-A-Z/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nazimhere/DSA-A-Z/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0888-fair-candy-swap](https://github.com/nazimhere/DSA-A-Z/tree/main/0888-fair-candy-swap/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/nazimhere/DSA-A-Z/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazimhere/DSA-A-Z/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
