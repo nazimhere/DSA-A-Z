@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nazimhere/DSA-A-Z/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
 | [0441-arranging-coins](https://github.com/nazimhere/DSA-A-Z/tree/main/0441-arranging-coins/) | Easy |
+| [0509-fibonacci-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/nazimhere/DSA-A-Z/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazimhere/DSA-A-Z/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nazimhere/DSA-A-Z/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nazimhere/DSA-A-Z/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nazimhere/DSA-A-Z/tree/main/0055-jump-game/) | Medium |
 | [0198-house-robber](https://github.com/nazimhere/DSA-A-Z/tree/main/0198-house-robber/) | Medium |
+| [0509-fibonacci-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/nazimhere/DSA-A-Z/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/nazimhere/DSA-A-Z/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
