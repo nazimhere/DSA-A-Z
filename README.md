@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/nazimhere/DSA-A-Z/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/nazimhere/DSA-A-Z/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nazimhere/DSA-A-Z/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nazimhere/DSA-A-Z/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nazimhere/DSA-A-Z/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/nazimhere/DSA-A-Z/tree/main/0204-count-primes/) | Medium |
 | [0441-arranging-coins](https://github.com/nazimhere/DSA-A-Z/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0509-fibonacci-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/nazimhere/DSA-A-Z/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/nazimhere/DSA-A-Z/tree/main/0125-valid-palindrome/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/nazimhere/DSA-A-Z/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/nazimhere/DSA-A-Z/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
