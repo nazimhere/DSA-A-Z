@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nazimhere/DSA-A-Z/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/nazimhere/DSA-A-Z/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Interactive
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/nazimhere/DSA-A-Z/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/nazimhere/DSA-A-Z/tree/main/0344-reverse-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
