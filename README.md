@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nazimhere/DSA-A-Z/tree/main/0055-jump-game/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nazimhere/DSA-A-Z/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/nazimhere/DSA-A-Z/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/nazimhere/DSA-A-Z/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nazimhere/DSA-A-Z/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nazimhere/DSA-A-Z/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/nazimhere/DSA-A-Z/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nazimhere/DSA-A-Z/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/nazimhere/DSA-A-Z/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nazimhere/DSA-A-Z/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/nazimhere/DSA-A-Z/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
