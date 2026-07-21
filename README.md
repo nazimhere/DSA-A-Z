@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/nazimhere/DSA-A-Z/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nazimhere/DSA-A-Z/tree/main/0888-fair-candy-swap/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nazimhere/DSA-A-Z/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazimhere/DSA-A-Z/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -88,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/nazimhere/DSA-A-Z/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nazimhere/DSA-A-Z/tree/main/0888-fair-candy-swap/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nazimhere/DSA-A-Z/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazimhere/DSA-A-Z/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nazimhere/DSA-A-Z/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazimhere/DSA-A-Z/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/nazimhere/DSA-A-Z/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/nazimhere/DSA-A-Z/tree/main/0344-reverse-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/nazimhere/DSA-A-Z/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/nazimhere/DSA-A-Z/tree/main/0204-count-primes/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nazimhere/DSA-A-Z/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nazimhere/DSA-A-Z/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
