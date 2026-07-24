@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nazimhere/DSA-A-Z/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/nazimhere/DSA-A-Z/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nazimhere/DSA-A-Z/tree/main/0888-fair-candy-swap/) | Easy |
