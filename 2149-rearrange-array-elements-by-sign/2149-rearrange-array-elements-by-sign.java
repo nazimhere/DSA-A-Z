@@ -2,7 +2,7 @@ class Solution {
     public int[] rearrangeArray(int[] nums) {
         ArrayList <Integer> s=new ArrayList<>(nums.length/2);
         ArrayList <Integer> e=new ArrayList<>(nums.length/2);
-        ArrayList <Integer> f =new ArrayList<>(nums.length);
+       int[] f=new int[nums.length];
         for(int i=0;i<nums.length;i++){
             if(nums[i]>0){
                 s.add(nums[i]);
@@ -13,11 +13,10 @@ class Solution {
            for(int i=0;i<s.size();i++){
               
               
-                 f.add(s.get(i));
-           
-              f.add(e.get(i));
+                 f[2 * i] = s.get(i);       // even index: positive
+            f[2 * i + 1] = e.get(i); 
             
            }
-              return f.stream().mapToInt(Integer::intValue).toArray();
+              return f;
         }
     }
