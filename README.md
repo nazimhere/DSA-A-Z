@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nazimhere/DSA-A-Z/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/nazimhere/DSA-A-Z/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/nazimhere/DSA-A-Z/tree/main/0055-jump-game/) | Medium |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nazimhere/DSA-A-Z/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/nazimhere/DSA-A-Z/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nazimhere/DSA-A-Z/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nazimhere/DSA-A-Z/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
