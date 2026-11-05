@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nazimhere/DSA-A-Z/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/nazimhere/DSA-A-Z/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/nazimhere/DSA-A-Z/tree/main/0198-house-robber/) | Medium |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/nazimhere/DSA-A-Z/tree/main/0796-rotate-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
