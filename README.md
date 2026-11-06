@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nazimhere/DSA-A-Z/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/nazimhere/DSA-A-Z/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/nazimhere/DSA-A-Z/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/nazimhere/DSA-A-Z/tree/main/0204-count-primes/) | Medium |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nazimhere/DSA-A-Z/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/nazimhere/DSA-A-Z/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/nazimhere/DSA-A-Z/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/nazimhere/DSA-A-Z/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0169-majority-element](https://github.com/nazimhere/DSA-A-Z/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/nazimhere/DSA-A-Z/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/nazimhere/DSA-A-Z/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/nazimhere/DSA-A-Z/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nazimhere/DSA-A-Z/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nazimhere/DSA-A-Z/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Simulation
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/nazimhere/DSA-A-Z/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/nazimhere/DSA-A-Z/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0136-single-number/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/nazimhere/DSA-A-Z/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
