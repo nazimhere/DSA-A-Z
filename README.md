@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nazimhere/DSA-A-Z/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nazimhere/DSA-A-Z/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nazimhere/DSA-A-Z/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/nazimhere/DSA-A-Z/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nazimhere/DSA-A-Z/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nazimhere/DSA-A-Z/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nazimhere/DSA-A-Z/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/nazimhere/DSA-A-Z/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
