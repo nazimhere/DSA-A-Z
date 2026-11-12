@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nazimhere/DSA-A-Z/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0832-flipping-an-image](https://github.com/nazimhere/DSA-A-Z/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nazimhere/DSA-A-Z/tree/main/0888-fair-candy-swap/) | Easy |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0832-flipping-an-image](https://github.com/nazimhere/DSA-A-Z/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/nazimhere/DSA-A-Z/tree/master/1389-create-target-array-in-the-given-order) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nazimhere/DSA-A-Z/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0832-flipping-an-image](https://github.com/nazimhere/DSA-A-Z/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0867-transpose-matrix/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/nazimhere/DSA-A-Z/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nazimhere/DSA-A-Z/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nazimhere/DSA-A-Z/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nazimhere/DSA-A-Z/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0832-flipping-an-image](https://github.com/nazimhere/DSA-A-Z/tree/main/0832-flipping-an-image/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nazimhere/DSA-A-Z/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0136-single-number/) | Easy |
+| [0832-flipping-an-image](https://github.com/nazimhere/DSA-A-Z/tree/main/0832-flipping-an-image/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
