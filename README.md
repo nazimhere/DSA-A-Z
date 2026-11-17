@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/nazimhere/DSA-A-Z/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/nazimhere/DSA-A-Z/tree/main/0018-4sum/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/nazimhere/DSA-A-Z/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/nazimhere/DSA-A-Z/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/nazimhere/DSA-A-Z/tree/main/0054-spiral-matrix/) | Medium |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/nazimhere/DSA-A-Z/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/nazimhere/DSA-A-Z/tree/main/0278-first-bad-version/) | Easy |
