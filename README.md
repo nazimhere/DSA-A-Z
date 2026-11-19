@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/nazimhere/DSA-A-Z/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/nazimhere/DSA-A-Z/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nazimhere/DSA-A-Z/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/nazimhere/DSA-A-Z/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/nazimhere/DSA-A-Z/tree/main/0189-rotate-array/) | Medium |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nazimhere/DSA-A-Z/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nazimhere/DSA-A-Z/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/nazimhere/DSA-A-Z/tree/main/0118-pascals-triangle/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/nazimhere/DSA-A-Z/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/nazimhere/DSA-A-Z/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/nazimhere/DSA-A-Z/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
